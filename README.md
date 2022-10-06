@@ -4,7 +4,6 @@ A one-page application that allows you to keep track of tasks for the day.
 **Technologies:**
  - _[Python 3.7.13](https://docs.python.org/3/)_
  - _[Django 3.2.16](https://docs.djangoproject.com/en/3.2/)_
- - _Bootstrap 5.0.2
 
 **To start the project, run the following commands:**
 ```
