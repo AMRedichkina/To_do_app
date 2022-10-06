@@ -16,3 +16,5 @@ pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
 ```
+![Снимок экрана 2022-10-06 в 17 42 33](https://user-images.githubusercontent.com/103931094/194358159-8ec68c85-cabb-4ef1-bf47-2f78f4cd84a7.png)
+
